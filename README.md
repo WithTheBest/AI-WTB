@@ -27,11 +27,3 @@ Talk: The Current AI Landscape, and Why We Are Building Vertical AI
 # External Links
 
 # Q and A 
-
-
-
-# Q and A
-ggest that you check out the companies that are looking for blockchain developers and see what their areas of interest here. Then look for open-source projects in those fields, and try to understand the concepts behind those. - Kobi Gurk
-A2 Best way to start off is using existing APIs available. Maybe you can try some [at our company] (https://api.coinsecure.in). We have multiple API methods open. - Mohit, Coinsecure
-
-A3 I think learning the basics of how blockchains work and getting practical programming experience with Bitcoin wallet, transactions, APIs etc is the first step. - Muneeb Ali
